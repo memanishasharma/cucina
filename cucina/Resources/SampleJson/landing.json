@@ -1,0 +1,31 @@
+[{
+    "id": "1",
+    "name": "Veg Recipees",
+    "image": "image.jpg"
+},
+{
+    "id": "2",
+    "name": "Non Veg recipees",
+    "image": "image.jpg"
+},
+{
+    "id": "3",
+    "name": "Diet Plan",
+    "image": "image.jpg"
+},
+{
+    "id": "4",
+    "name": "Tips and tricks",
+    "image": "image.jpg"
+},
+{
+    "id": "5",
+    "name": "Sample Data 5",
+    "image": "image.jpg"
+},
+{
+    "id": "6",
+    "name": "Sample Data 6",
+    "image": "image.jpg"
+}
+]
